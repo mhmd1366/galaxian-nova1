@@ -1,0 +1,8 @@
+{
+  "appId": "com.galaxian.nova",
+  "appName": "Galaxian Nova",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#040611"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "galaxian-nova",
+  "version": "1.0.0",
+  "description": "Galaxian Nova - Neon Arcade Space Shooter for Android",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static game ready in www/'"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2"
+  }
+}
